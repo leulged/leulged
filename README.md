@@ -1,9 +1,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/metasebiyaw-asfaw-262497205"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/metasebiyaw?igsh=b3NxaW4zdWN4ZDZz"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-  <a href="https://t.me/chapi_m" ><img src="https://img.shields.io/static/v1?message=TeleGram&logo=telegram&label=&color=33AAE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
+  <a href="www.linkedin.com/in/leulgedion"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/leul_ged/?next=%2F"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <a href="https://t.me/leulged" ><img src="https://img.shields.io/static/v1?message=TeleGram&logo=telegram&label=&color=33AAE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
   
 
 </div>
@@ -14,7 +14,7 @@
 
 <h1 align="center">Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Metasebiyaw
+  I'm leul
 </h1>
 
 <img align="right" alt="Coding" width="320"
@@ -26,15 +26,15 @@
 <br/>
 
 ###
-- Portifolio: https://chapi1234.github.io/responsive-personal-portifolio/
+- Portifolio: https://leulgedion.netlify.app/
 
 - 🔭 I’m trying ma best to be a Fullstack-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📚 I'm currently learning at Adama Science and technology University 
 
-- ✅ Intersted in Mernstack,AI, graphics,web design and video editing
+- ✅ Intersted in Mernstack, Problem Solving and Data Science
 
-- ⚡️ In my free time I would like to watch anime.
+- ⚡️ In my free time I would like to explore new technologies.
   
 ###
 <br/><br/>
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,nextjs,tailwind,css,html,git,cpp,django,python,flutter,dart,java,mongodb,mysql,npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mongodb,mysql,javascript,css,html,git,python,npm" />
   </a>
 </p>
 
@@ -54,9 +54,9 @@
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chapi1234&theme=vue-white"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leulged&theme=vue-white"/>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapi1234&layout=compact&theme=vision-friendly-dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leulged&layout=compact&theme=vision-friendly-dark"/>
 
 
 ###

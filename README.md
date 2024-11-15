@@ -28,7 +28,7 @@
 ###
 - Portifolio: https://leulgedion.netlify.app/
 
-- 🔭 I’m trying ma best to be a Fullstack-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m trying ma best to be a backend-developer and Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📚 I'm currently learning at Adama Science and technology University 
 

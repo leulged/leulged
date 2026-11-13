@@ -3,7 +3,6 @@
 Software Engineering graduate (BSc, Adama Science and Technology University) focused on **backend development and relational databases**. Currently a Software Engineer at ProspexAI, building ProspexCare, a healthcare platform (React Native + web).
 
 - 🌐 Portfolio: [https://leul-gedion-portfolio.vercel.app/]((https://leul-gedion-portfolio.vercel.app/))
-- 🌐 Portfolio: [leulgedion.netlify.app]()
 - 💼 Backend internship at IE Network Solutions; AI evaluation and benchmark work at AfterQuery, Harbor and Revelo
 - 🧠 A2SV backend track; 600+ LeetCode/Codeforces problems solved
 - 📍 Adama, Ethiopia, open to Addis Ababa
